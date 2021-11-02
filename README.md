@@ -8,6 +8,9 @@ I recently joined a data science fellowship with Correlation One. My team and I 
 #### What I care about 👯: 
 I'm a big advocate for diversity in STEM, youth mentorship and data equity. I believe that diversity of thought and data equity are key contributors in building a product or a solution that doesn't just work, but serves the community. I am also a big believer in paying it forward and doing what I can to give back to my community, whether that be through pro-bono consulting projects or mentoring youth. 
 
+#### My Background 🔙: 
+I graduated from Western University with a B.E.Sc. specializing in Mechatronic Systems Engineering. I have a wide array of experiences in different industries and roles, from configuration management at an aviation R&D company in Thailand to now working as a Technology Consultant at EY Canada. As a tech consultant, I work to understand client needs and business processes in order to build out functional and technical solutions to solve their pain points. I love working with cross-functional and multi-dimensional teams, and thrive off the opportunity to wear different hats from day to day. 
+
 #### My Interests ✨:
 Driving decisions with data through impactful insights, building products/solutions that is needed *and* desired by the user, finding my next favourite coffee shop in the city. 
 
