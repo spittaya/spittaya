@@ -14,11 +14,12 @@ I graduated from Western University with a B.E.Sc. specializing in Mechatronic S
 #### My Interests ✨:
 Driving decisions with data through impactful insights, building products/solutions that is needed *and* desired by the user, finding my next favourite coffee shop in the city. 
 
-### Skills 💻:
+### Skills & Certifications 💻:
 | Technical |  |
 | ------------- | ------------- |
 | Languages | Python, SQL, C++, MATLAB, HTML/CSS, Javascript  |
-| Tools | Microsoft SQL Server, Tableau, PowerBI, SAP Cloud Suite (Analytics Cloud, Business Warehouse, HANA DB) |
+| Tools | Microsoft SQL Server, Tableau, PowerBI, SAP Cloud Suite (Analytics Cloud, Business Warehouse, HANA DB), Github |
+| Certifications | Certified SAP Analytics Cloud Application Associate, Certified SolidWorks Associate, Certified SolidWorkds Simulation Associate, EY Bronze Badge: Data Visualization |
 
 ### Work 🛠️:
 **Currently:** Technology Consultant (SAP, Data and Analytics) at [Ernst & Young](https://www.ey.com/en_ca) || Data Science Fellow at [Correlation One](https://www.correlation-one.com/data-science-for-all-women)
