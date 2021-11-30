@@ -27,7 +27,8 @@ Driving decisions with data through impactful insights, building products/soluti
 **Previously:** [Unilever](https://www.unilever.ca/) (Enterprise Solutions), [Toronto Hydro](https://www.torontohydro.com/) (Investment Planning), [RV Connex](https://www.rvconnex.com/) (Configuration Management)
 
 ### Projects and Hackathons ⚡:
-Data Science Fellowship: [COVID-19 Recovery for Small Businesses](https://youtu.be/TRsLfuqjShg)
+Data Science Fellowship: [COVID-19 Recovery for Small Businesses Presentation](https://youtu.be/TRsLfuqjShg), [COVID-19 Recovery for Small Businesses Project](https://github.com/spittaya/small_business_recovery)
+
 
 Delta Hacks V: 🏅[Materials Challenge 1st Place](https://devpost.com/software/material-arts-2000)🏅
 
