@@ -9,7 +9,7 @@ I recently completed a data science fellowship with Correlation One. My team and
 I'm a big advocate for diversity in STEM, youth mentorship and data equity. I believe that diversity of thought and data equity are key contributors in building a product or a solution that doesn't just work, but serves the community. I am also a big believer in paying it forward and doing what I can to give back to my community, whether that be through pro-bono consulting projects or mentoring youth. 
 
 #### My Background 🔙: 
-I graduated from Western University with a B.E.Sc. specializing in Mechatronic Systems Engineering. I have a wide array of experiences in different industries and roles, from configuration management at an aviation R&D company in Thailand to now working as a Technology Consultant at EY Canada. As a tech consultant, I work to understand client needs and business processes in order to build out functional and technical solutions to solve their pain points. I love working with cross-functional and multi-dimensional teams, and thrive off the opportunity to wear different hats from day to day. 
+I graduated from Western University with a B.E.Sc. specializing in Mechatronic Systems Engineering. I have a wide array of experiences in different industries and roles, from aviation, power and utilities, CPG, and tech consulting. I am currently working as a Technical Product Owner at XpertSea. As a product person at a startup, I thrive off iterating new solutions for our customers and solving challenges everyday. I love working with cross-functional teams across product, design, sustainability and engineering. 
 
 #### My Interests ✨:
 Driving decisions with data through impactful insights, building products/solutions that is needed *and* desired by the user, finding my next favourite coffee shop in the city. 
@@ -18,13 +18,13 @@ Driving decisions with data through impactful insights, building products/soluti
 | Technical |  |
 | ------------- | ------------- |
 | Languages | Python, SQL, C++, MATLAB, HTML/CSS, Javascript  |
-| Tools | Microsoft SQL Server, Tableau, PowerBI, SAP Cloud Suite (Analytics Cloud, Business Warehouse, HANA DB), Github |
+| Tools | Jira, Mixpanel, Google Analuytics, Microsoft SQL Server, Tableau, PowerBI, SAP Cloud Suite (Analytics Cloud, Business Warehouse, HANA DB) |
 | Certifications | Certified SAP Analytics Cloud Application Associate, Certified SolidWorks Associate, Certified SolidWorkds Simulation Associate, EY Bronze Badge: Data Visualization |
 
 ### Work 🛠️:
-**Currently:** Technology Consultant (SAP, Data and Analytics) at [Ernst & Young](https://www.ey.com/en_ca) || Data Science Fellow at [Correlation One](https://www.correlation-one.com/data-science-for-all-women)
+**Currently:** Technical Product Owner at [XpertSea](https://xpertsea.com/)
 
-**Previously:** [Unilever](https://www.unilever.ca/) (Enterprise Solutions), [Toronto Hydro](https://www.torontohydro.com/) (Investment Planning), [RV Connex](https://www.rvconnex.com/) (Configuration Management)
+**Previously:** [Ernst & Young](https://www.ey.com/en_ca) (Tech Consulting), [Correlation One](https://www.correlation-one.com/data-science-for-all-women) (Data Science Fellow), [Unilever](https://www.unilever.ca/) (Enterprise Solutions), [Toronto Hydro](https://www.torontohydro.com/) (Investment Planning), [RV Connex](https://www.rvconnex.com/) (Configuration Management)
 
 ### Projects and Hackathons ⚡:
 Data Science Fellowship: [COVID-19 Recovery for Small Businesses Presentation](https://youtu.be/TRsLfuqjShg), [COVID-19 Recovery for Small Businesses Project](https://github.com/spittaya/small_business_recovery)
