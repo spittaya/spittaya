@@ -18,7 +18,7 @@ Driving decisions with data through impactful insights, building products/soluti
 | Technical |  |
 | ------------- | ------------- |
 | Languages | Python, SQL, C++, MATLAB, HTML/CSS, Javascript  |
-| Tools | Jira, Mixpanel, Google Analuytics, Microsoft SQL Server, Tableau, PowerBI, SAP Cloud Suite (Analytics Cloud, Business Warehouse, HANA DB) |
+| Tools | Jira, Mixpanel, Google Analytics, Microsoft SQL Server, Tableau, PowerBI, SAP Cloud Suite (Analytics Cloud, Business Warehouse, HANA DB) |
 | Certifications | Certified SAP Analytics Cloud Application Associate, Certified SolidWorks Associate, Certified SolidWorkds Simulation Associate, EY Bronze Badge: Data Visualization |
 
 ### Work 🛠️:
